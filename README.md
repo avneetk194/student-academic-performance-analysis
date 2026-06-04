@@ -57,6 +57,7 @@ Model	RMSE	R²
 Multiple Linear Regression	18.63	0.067
 Decision Tree Regression	20.15	-0.365
 Random Forest Regression	18.03	-0.092
+
 Key Findings
 Study hours showed the strongest positive relationship with exam scores.
 Learning method alone was not a strong predictor of academic performance.
@@ -73,6 +74,6 @@ Prior academic performance
 Teacher quality
 Family support systems
 
-Authors
-Avneet Kaur
+Authors-
+Avneet Kaur and
 Team Members
